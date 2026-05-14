@@ -1,0 +1,19 @@
+{
+  "name": "my-plugin",
+  "version": "0.1.0",
+  "description": "Placeholder Codex plugin. Replace this with the plugin purpose.",
+  "author": {
+    "name": "oxc-v"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "My Plugin",
+    "shortDescription": "Placeholder Codex plugin",
+    "developerName": "oxc-v",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Use my plugin placeholder."
+    ]
+  }
+}

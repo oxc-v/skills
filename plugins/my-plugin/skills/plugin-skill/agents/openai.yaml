@@ -1,0 +1,3 @@
+display_name: Plugin Skill
+short_description: Placeholder skill bundled inside my-plugin
+default_prompt: Use the plugin skill placeholder.
