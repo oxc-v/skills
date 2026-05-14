@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Artifact Designer"
+  short_description: "设计精致的单文件 HTML 作品"
+  default_prompt: "使用 $html-artifact-designer 为这个主题创建一个精致、自包含的 HTML 作品。"
